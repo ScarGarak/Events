@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="buDeutschString">Deutsch</string>
+    <string name="buEnglischString">Englisch</string>
+    <string name="tvAusgabeString">Ausgabe</string>
+    <string name="tvAusgabeDeutsch">Guten Morgen</string>
+    <string name="tvAusgabeEnglisch">Good morning</string>
+</resources>
